@@ -67,17 +67,16 @@ What are the inclusion probabilities for each of the six units under Plan 2?
 \vfill
 
 #### d. (2 points)
-What is the value of $\bar{y}_U$
+What is the value of the population mean ($\bar{y}_U$)
 \vfill
 
 #### e. (4 points)
-Compute $E[\bar{y}]$, $Var(\bar{y})$, $Bias(\bar{y})$, and $MSE(\bar{y})$ for Plan 1.
+For the estimator in plan 1, compute the expectation, variance, bias, and mean-squared error.
 \vfill \vfill
 \newpage
 
 #### f. (4 points)
-Compute $E[\bar{y}]$, $Var(\bar{y})$, $Bias(\bar{y})$, and $MSE(\bar{y})$ for Plan 2.
-\vfill \vfill
+For the estimator in plan 2, compute the expectation, variance, bias, and mean-squared error.\vfill 
 
 #### g. (2 points)
 Which sampling scheme do you think is better? Justify your answer.
