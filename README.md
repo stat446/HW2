@@ -2,7 +2,7 @@
 #### 1. 
 _From Lohr Exercise 2.1._ Let N = 6 and n = 3. For purposes of studying sampling distributions, assume that all population value are known.
 
-y<sub>1</sub> = 98, y<sub>2</sub> = 102, y<sub>3</sub> = 154, y<sub>4</sub> = 133, y<sub>5</sub> = 190, y<sub>1</sub> = 175
+y<sub>1</sub> = 98, y<sub>2</sub> = 102, y<sub>3</sub> = 154, y<sub>4</sub> = 133, y<sub>5</sub> = 190, y<sub>6</sub> = 175
 We are interested in learning the population mean, so two sampling schemes are proposed.
 
 #### a. (4 points)
